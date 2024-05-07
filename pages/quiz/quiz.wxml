@@ -1,0 +1,7 @@
+<!-- quiz.wxml -->
+<view class="container">
+  <view class="question">{{ question }}</view>
+  <view class="options">
+    <view wx:for="{{ options }}" wx:key="{{ index }}" bindtap="selectOption" data-index="{{ index }}">{{ item }}</view>
+  </view>
+</view>

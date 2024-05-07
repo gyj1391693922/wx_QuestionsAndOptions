@@ -1,0 +1,7 @@
+<!-- result.wxml -->
+<view class="container">
+  <text class="title">测试结束</text>
+  <text>感谢您的参与</text>
+  <button class="restart-btn" bindtap="restartQuiz">重新开始</button>
+  <button class="restart-btn" bindtap="gotoIndex">跳转主页</button>
+</view>

@@ -1,0 +1,5 @@
+<!-- index.wxml -->
+<view class="container">
+  <text class="title">欢迎来到人格测试小程序</text>
+  <button class="start-btn" bindtap="startQuiz">开始答题</button>
+</view>

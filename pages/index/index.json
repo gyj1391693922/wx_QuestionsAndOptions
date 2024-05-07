@@ -1,0 +1,13 @@
+{
+    "pages": [
+      "pages/index/index",
+      "pages/quiz/quiz",
+      "pages/result/result"
+    ],
+    "window": {
+      "navigationBarTitleText": "答题小程序"
+    },
+    "tabBar": {
+      "list": []
+    }
+  }
